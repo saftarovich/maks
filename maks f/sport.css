@@ -1,0 +1,156 @@
+.f input{
+    width: 200px;
+    height: 40px;
+    border: none;
+    background-color: rgb(156, 161, 17);
+    font-size: 20px;
+}
+.f{
+    background-color: rgb(37, 37, 38);
+    height: 500px;
+    border: 8px solid wheat;
+    text-align: center;
+    margin: 50px 0px;
+    color: wheat;
+    padding: 50px;
+}
+.f span{
+    color: brown;
+}
+.o .m1{
+    font-size: 20px;
+}
+.o .m{
+    width: 100px;
+}
+.o input{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: bisque;
+    background-color: rgb(15, 14, 14);
+} 
+.o a{
+    font-size: 25px;
+    padding: 30px;
+    color: red;
+}
+.o p{
+    font-size: 20px;
+}
+.o img{
+   width: 90px;
+}
+.m3 .o{
+    height: 350px;
+    width: 280px;
+    background-color: rgb(243, 241, 253);
+    text-align: center;
+}
+.m3{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(37, 37, 90);
+}
+.p1{
+    margin: 020px 180px;
+}
+.p1 img{
+    width: 150px;
+    margin-left: 60px;
+}
+.m2{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+.m1 a{
+    color: red;
+    font-size: 20px;
+}
+.m1 p{
+    font-size: 30px;
+    color:black;
+}
+h3{ 
+    font-size: 30px;
+    margin: 70px 10px;
+}
+.m1{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(226, 237, 247);
+}
+.p h2{
+    font-size: 30px;
+    color: white;
+    margin: -40px 120px;
+}
+.p .g{
+    width: 80px;
+    height: 2px;
+    background-color: white;
+    margin: 0px auto;
+}
+.p h1{
+    font-size: 20px;
+    color: white;
+    margin: -40px 100px;
+}
+.p img{
+    width: 100px;
+    margin: 60px 120px;
+}
+.p .k{
+    width: 100%;
+    margin: 0px auto;
+}
+.p{ 
+    margin: -30px -10px;
+    width: 360px;
+    height: 300px;
+    background-color: rgb(139, 147, 154);
+}
+.b3 img{
+    width: 555px;
+}
+.b2 img{
+    width: 110px;
+    height: 80px;
+    margin: 0px 20px;
+}
+.b2{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(60, 45, 45);
+
+}
+.b2 ul{
+    float: right;
+    margin: 10px 80px;
+}
+.b2 a{
+    margin-right: 40px;
+    font-size: 20px;
+    color: white;
+}
+.b2 li{
+    margin: 20px 0px;
+    display: inline-block;
+}
+.b h2{
+    margin: 0px 400px;
+}
+.b img{
+    margin: 0px 0px;
+    width: 100%;
+    height: 320px;
+}
+.b{
+    margin: 0px;
+    background-color: red;
+    height: 300px;
+}
+.m{
+    background-color: rgb(10, 10, 11);
+}
